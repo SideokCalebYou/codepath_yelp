@@ -43,7 +43,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/XkN36tk' title='Yelp application' width='' alt='Yelp application' />
+<img src='http://imgur.com/a/iYeXZ' title='Yelp application' width='' alt='Yelp application' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
